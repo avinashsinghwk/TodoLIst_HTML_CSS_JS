@@ -1,7 +1,7 @@
 
 # ToDo List
 
-This is a simple TodoList website created using only HTML, CSS and JAVASCRIPT. It has responsive design that adapts to different screen sizes. It uses browser's localstorage to save todos.
+This is a simple TodoList website created using only HTML, CSS and JAVASCRIPT. It has responsive design that adapts to different screen sizes. It uses browser's localstorage to save todos. [[Visit]](https://sistya-todolist.netlify.app)
 
 <img src='./Screenshots/website.png'>
 
